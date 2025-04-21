@@ -1,6 +1,7 @@
 Django==4.2.20
 djangorestframework==3.16.0
 djangorestframework_simplejwt==5.5.0
-
+psycopg2-binary==2.9.10
 django-filter==25.1
-drf-yasg~=1.21.10
+drf-yasg==1.21.10
+django-environ==0.12.0
