@@ -15,9 +15,9 @@ This project is a Django REST Framework-based API that allows users to manage th
 
 * **Expense Modification**: Update details of any existing expense that belongs to the authenticated user.
 
-* **Expense Deletion**: Remove any expense from your list with a simple DELETE request.
+* **Expense Deletion**: Remove any expense from list with a simple DELETE request.
 
-* **Preset Categories**: Classify your expenses into one of the preset categories: Grocery, Leisure, Electronics, Utilities, Clothing, Health, or Other.
+* **Preset Categories**: Classify expenses into one of the preset categories: Grocery, Leisure, Electronics, Utilities, Clothing, Health, or Other.
 
 ## Technologies Used
 * **Django**: Python web framework.
